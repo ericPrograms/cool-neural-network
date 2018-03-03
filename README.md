@@ -1,2 +1,5 @@
 # cool-neural-network
-Python codes for various kinds of neural networks. Made by Eric Ku
+-This repository will have python codes about Neural Networks.
+-Most of the code will be made with Python3.
+-This Neural Network code is a MIT License, meaning you shall use this code in commercial or private use, modificate, or distribute this code to someone else unless copy of the license and the copyight notice is included with the software. Please check the LICENSE file for more informations about this license.
+-This code will only use python libraries for math or visualization, like numpy or matplotlib. This code will not be made with neural network libraries.
